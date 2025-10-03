@@ -1,0 +1,6 @@
+logs/
+__pycache__/
+.DS_Store
+vector_store/
+models/
+docs/

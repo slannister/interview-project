@@ -1,0 +1,8 @@
+torch>=2.1
+transformers>=4.38
+accelerate>=0.27
+qdrant-client>=1.7
+numpy>=1.24
+sentencepiece>=0.1.99
+langfuse>=2.0
+opencc-python-reimplemented>=0.1.7
